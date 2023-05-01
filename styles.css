@@ -1,0 +1,11 @@
+.section {
+  display: flex;
+}
+
+.card-img-top {
+  height: 15rem !important;
+}
+
+.card {
+  margin-bottom: 0.5rem;
+}
